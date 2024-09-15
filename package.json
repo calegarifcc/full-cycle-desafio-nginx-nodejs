@@ -1,0 +1,14 @@
+{
+    "name": "nginx_nodejs",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "mysql2": "^2.3.3",
+        "npm": "^10.8.3",
+        "start": "^5.1.0"
+    }
+}
